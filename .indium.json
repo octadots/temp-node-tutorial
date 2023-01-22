@@ -1,0 +1,9 @@
+{
+  "configurations": [
+    {
+        "name": "test project",
+        "type": "node",
+        "program": "node"
+    }
+  ]
+}
